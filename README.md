@@ -25,6 +25,7 @@
 ## Result
 
 Enter your first name: Amanpreet
+
 Enter your last name: Singh
 
 Hello, Amanpreet Singh! Welcome to the Python program
