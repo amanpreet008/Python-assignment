@@ -2,9 +2,9 @@
 
 ## TASK 1
 
-## We took two numbers as an input users
+### We took two numbers as an input users
 
-## Performed basic mathematical operations
+### Performed basic mathematical operations
 
 - Addditions
 - Subtraction
@@ -20,7 +20,7 @@
 
 ## TASK 2
 
-## Print a personalized greeting message using the full name.
+### Print a personalized greeting message using the full name.
 
 ## Result
 
@@ -34,7 +34,7 @@ Hello, Amanpreet Singh! Welcome to the Python program
 
 ## Task 1
 
-## Takes an integer input from the user.Checks whether the number is even or odd using an if-else statement.
+### Takes an integer input from the user.Checks whether the number is even or odd using an if-else statement.
 
 ## Output:
 
@@ -46,7 +46,7 @@ Number is even
 
 ## Task 2
 
-## Uses a for loop to iterate over numbers from 1 to 50.Calculates the sum of all integers in this range.Displays the final sum.
+### Uses a for loop to iterate over numbers from 1 to 50.Calculates the sum of all integers in this range.Displays the final sum.
 
 ## Result
 
@@ -68,6 +68,9 @@ Number is even
 ### Uses the math module to calculate the:
 
 -Enter a number: 25
+
 -Square root: 5.0
+
 -logarithm: 3.2188758248682006
+
 -sine: -0.13235175009777303
