@@ -51,3 +51,23 @@ Number is even
 ## Result
 
 -The sum of all numbers from 1 to 50 is: 1275
+
+# Assignment 3
+
+## Task 1
+
+### Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion. Returns the calculated factorial. Call the function with a sample number and prints the output.
+
+## Output
+
+-Enter a number: 5
+-Factorial of number 5 : 120
+
+## Task 2
+
+### Uses the math module to calculate the:
+
+-Enter a number: 25
+-Square root: 5.0
+-logarithm: 3.2188758248682006
+-sine: -0.13235175009777303
