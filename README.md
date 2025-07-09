@@ -20,7 +20,7 @@
 
 ## TASK 2
 
-##Print a personalized greeting message using the full name.
+## Print a personalized greeting message using the full name.
 
 ## Result
 
@@ -34,7 +34,7 @@ Hello, Amanpreet Singh! Welcome to the Python program
 
 ## Task 1
 
-##Takes an integer input from the user.Checks whether the number is even or odd using an if-else statement.
+## Takes an integer input from the user.Checks whether the number is even or odd using an if-else statement.
 
 ## Output:
 
@@ -46,7 +46,8 @@ Number is even
 
 ## Task 2
 
-##Uses a for loop to iterate over numbers from 1 to 50.Calculates the sum of all integers in this range.Displays the final sum.
+## Uses a for loop to iterate over numbers from 1 to 50.Calculates the sum of all integers in this range.Displays the final sum.
 
-##Result
+## Result
+
 -The sum of all numbers from 1 to 50 is: 1275
