@@ -1,9 +1,9 @@
-'''try:
+try:
     with open('sample.txt', 'r') as file1:
         reading_sample = file1.read()
         print(reading_sample)
 except FileNotFoundError:
-    print("Error: This file 'sample.txt' was not found. ")'''
+    print("Error: This file 'sample.txt' was not found. ")
 
 
 # Take user input and write to output.txt
