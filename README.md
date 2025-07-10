@@ -98,7 +98,7 @@ Number is even
 
 ## Task 2
 
-### user input and writes it to a file named output.txt.
+### User input and writes it to a file named output.txt.
 
 ### Appends additional data to the same file.
 
@@ -106,11 +106,11 @@ Number is even
 
 ## Result
 
-*Enter some text to write to the file: Hello, Python
-*Data successfully written to output.txt.
-*Enter more text to append to the file: learning file handling in Python
-*Data successfully appended.
+-Enter some text to write to the file: Hello, Python
+-Data successfully written to output.txt.
+-Enter more text to append to the file: learning file handling in Python
+-Data successfully appended.
 
-*Final content of output.txt:
-*Hello, Python
-\*learning file handling in Python
+-Final content of output.txt:
+-Hello, Python
+-learning file handling in Python
