@@ -74,3 +74,43 @@ Number is even
 -logarithm: 3.2188758248682006
 
 -sine: -0.13235175009777303
+
+# Assignment 4
+
+## Task 1
+
+### Opens and reads a text file named sample.txt.
+
+### Prints its content line by line.
+
+### Handles errors gracefully if thefile does not exist.
+
+## Result
+
+### When sample.txt exist
+
+-This is a sample text file.
+-It contains multiple lines.
+
+### When sample.txt does not exist
+
+-Error: This file 'sample.txt' was not found.
+
+## Task 2
+
+### user input and writes it to a file named output.txt.
+
+### Appends additional data to the same file.
+
+### Reads and displays the final content of the file.
+
+## Result
+
+Enter some text to write to the file: Hello, Python
+Data successfully written to output.txt.
+Enter more text to append to the file: learning file handling in Python
+Data successfully appended.
+
+Final content of output.txt:
+Hello, Python
+learning file handling in Python
