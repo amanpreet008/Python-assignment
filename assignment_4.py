@@ -1,3 +1,4 @@
+# Task 1
 try:
     with open('sample.txt', 'r') as file1:
         reading_sample = file1.read()
@@ -5,7 +6,7 @@ try:
 except FileNotFoundError:
     print("Error: This file 'sample.txt' was not found. ")
 
-
+# Task 2
 # Take user input and write to output.txt
 user_input = input("Enter some text to write to the file: ")
 with open('output.txt', 'w') as file:
