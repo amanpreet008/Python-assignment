@@ -114,3 +114,34 @@ Number is even
 -Final content of output.txt:
 -Hello, Python
 -learning file handling in Python
+
+# Assignment 5
+
+## Task 1
+
+-Creates a dictionary where student names are keys and their marks are values.
+-Asks the user to input a student's name.
+
+## Output
+
+## Excepted Output
+
+-Enter the student's name: Alice
+-Alice's marks: 78
+
+## Failed
+
+-Enter the student's name: Drake
+-No record found for student: Drake
+
+# Task 2
+
+-Demonstrate List Slicing
+-Creates a list of numbers from 1 to 10.
+-Extracts the first five elements from the list.
+-Reverses these extracted elements.
+
+## output
+
+-First five elements: [1, 2, 3, 4, 5]
+-Reversed first five elements: [5, 4, 3, 2, 1]
